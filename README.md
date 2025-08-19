@@ -4,4 +4,8 @@ C:\Users\{User Name}\.config\Wezterm\
 
 Ubuntu
 
-~\.wezterm.lua
+~/.wezterm.lua
+
+or
+
+~/.config/wezterm/wezterm.lua
